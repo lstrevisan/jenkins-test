@@ -1,0 +1,9 @@
+__pycache__
+.pytestcache
+chrome-win64
+etc
+include
+Lib
+Scripts
+share
+pyvenv.cfg
