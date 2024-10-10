@@ -1,7 +1,7 @@
 import time
 
 def test_home(browser):
-    url = 'http://192.168.0.16:8080'
+    url = 'http://192.168.0.16:8081'
     browser.get(url)
     time.sleep(10)
 
